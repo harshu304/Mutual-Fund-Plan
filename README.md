@@ -8,11 +8,11 @@ Analyze Nifty50 closing values over the specified period.
 
 Calculate the following financial metrics:
 
-ROI: Measure the profitability of the investment.
-
-Volatility: Assess the price fluctuations over time.
-
-Risk: Evaluate potential financial losses.
+    ROI: Measure the profitability of the investment.
+    
+    Volatility: Assess the price fluctuations over time.
+    
+    Risk: Evaluate potential financial losses.
 
 Present a final investment plan including:
 
