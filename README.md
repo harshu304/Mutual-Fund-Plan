@@ -16,9 +16,13 @@ Dataset
 The dataset used in this project consists of the closing values of the Nifty50 index from 20 August to 20 September. Ensure you have the necessary data file (e.g., nifty50_data.csv) in the project directory for proper execution.
 
 Technologies Used
+
 Python
+
 Pandas (for data manipulation)
+
 NumPy (for numerical calculations)
+
 Plotly (for data visualization)
 
 # Contributing
