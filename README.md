@@ -16,9 +16,9 @@ Calculate the following financial metrics:
 
 Present a final investment plan including:
 
-Total investment amount
-
-Projected returns based on historical performance
+    Total investment amount
+    
+    Projected returns based on historical performance
 
 # Dataset
 
